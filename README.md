@@ -6,7 +6,7 @@ In this repository, you can see my progress in creating and implementing a DMS (
 
 1. Document Category Management
 
-* Implements the complete EU-OSHA retention schedule with codes, descriptions, and retention periods.
+* Implements the complete retention schedule with codes, descriptions, and retention periods.
 
 * Supports adding, updating, and querying document categories.
 
