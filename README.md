@@ -44,7 +44,7 @@ In this repository, you can see my progress in creating and implementing a DMS (
 
 * Retrieves documents by:
 
-    * Category (e.g., all EUOSHA.6.2.6.1 files for HR selection procedures).
+    * Category (e.g., files for HR selection procedures).
 
     * Employee (e.g., all documents owned by a specific staff member).
 
